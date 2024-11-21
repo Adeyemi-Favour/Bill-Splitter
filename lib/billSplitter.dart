@@ -21,7 +21,7 @@ class _BillSplitterState extends State<BillSplitter> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Bill Spiltter',
+          'Bill Splitter',
           style: TextStyle(fontSize: 20, fontWeight: FontWeight.w500),
         ),
       ),
